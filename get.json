@@ -1,0 +1,8 @@
+{
+    "status": "success",
+    "data": [
+      { "id": 1, "category": "Food", "amount": 50.5, "date": "2024-12-04" },
+      { "id": 2, "category": "Travel", "amount": 120.0, "date": "2024-12-03" }
+    ],
+    "error": null
+  }
