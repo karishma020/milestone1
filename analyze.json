@@ -1,0 +1,9 @@
+{
+    "status": "success",
+    "data": {
+      "totalByCategory": { "Food": 150, "Travel": 200 },
+      "monthlyTotals": { "2024-12": 350 }
+    },
+    "error": null
+  }
+  
